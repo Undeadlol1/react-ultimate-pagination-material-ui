@@ -28,7 +28,7 @@
     "material-ui": ">=0.15.0"
   },
   "dependencies": {
-    "react-ultimate-pagination": "git://github.com/Undeadlol1/react-ultimate-pagination.git#master"
+    "react-ultimate-pagination": "https://github.com/Undeadlol1/react-ultimate-pagination"
   },
   "devDependencies": {
     "babel-cli": "^6.7.7",
